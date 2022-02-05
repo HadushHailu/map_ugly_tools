@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>analyse_map</name>
+  <name>map_ugly_tools</name>
   <version>0.0.0</version>
-  <description>The analyse_map package</description>
-  <maintainer email="hadush@todo.todo">hadush</maintainer>
+  <description>The map_ugly_tools package</description>
+  <maintainer email="had.hailu@gmail.com">hadush</maintainer>
 
   <license>TODO</license>
 

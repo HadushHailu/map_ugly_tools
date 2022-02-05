@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(analyse_map)
+project(map_ugly_tools)
 
 find_package(catkin REQUIRED COMPONENTS
   roscpp
@@ -18,7 +18,7 @@ include_directories(
 # include
   ${catkin_INCLUDE_DIRS}
 )
-catkin_install_python(PROGRAMS scripts/analyse_map.py
+catkin_install_python(PROGRAMS scripts/first_obstacle_cell_etc.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
