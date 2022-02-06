@@ -1,5 +1,5 @@
 # map_ugly_tools
-##original map
+## original map
 ![Alt text](https://github.com/hadhailu/map_ugly_tools/blob/master/resource/original_map.png)
 
 ## Delete obstacle within a rectangle defined by two points
